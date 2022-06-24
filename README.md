@@ -1,1 +1,1 @@
-# t24
+# t24- open amazon account
